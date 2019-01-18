@@ -1,0 +1,9 @@
+C:\Users\usuario-DAW\Desktop\Relacion1\Ejercicio10\Ejercicio10\bin\Debug\Ejercicio10.exe.config
+C:\Users\usuario-DAW\Desktop\Relacion1\Ejercicio10\Ejercicio10\bin\Debug\Ejercicio10.exe
+C:\Users\usuario-DAW\Desktop\Relacion1\Ejercicio10\Ejercicio10\bin\Debug\Ejercicio10.pdb
+C:\Users\usuario-DAW\Desktop\Relacion1\Ejercicio10\Ejercicio10\obj\Debug\Ejercicio10.csprojResolveAssemblyReference.cache
+C:\Users\usuario-DAW\Desktop\Relacion1\Ejercicio10\Ejercicio10\obj\Debug\Ejercicio10.exe
+C:\Users\usuario-DAW\Desktop\Relacion1\Ejercicio10\Ejercicio10\obj\Debug\Ejercicio10.pdb
+E:\Programacion\01De sentencias condicionales\Ejercicio10\Ejercicio10\bin\Debug\Ejercicio10.exe.config
+E:\Programacion\01De sentencias condicionales\Ejercicio10\Ejercicio10\obj\Debug\Ejercicio10.exe
+E:\Programacion\01De sentencias condicionales\Ejercicio10\Ejercicio10\obj\Debug\Ejercicio10.pdb

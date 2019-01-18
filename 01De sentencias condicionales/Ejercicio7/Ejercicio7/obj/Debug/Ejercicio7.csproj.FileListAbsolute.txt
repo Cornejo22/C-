@@ -1,0 +1,5 @@
+C:\Users\usuario-DAW\Desktop\Relacion1\Ejercicio7\Ejercicio7\bin\Debug\Ejercicio7.exe.config
+C:\Users\usuario-DAW\Desktop\Relacion1\Ejercicio7\Ejercicio7\bin\Debug\Ejercicio7.exe
+C:\Users\usuario-DAW\Desktop\Relacion1\Ejercicio7\Ejercicio7\bin\Debug\Ejercicio7.pdb
+C:\Users\usuario-DAW\Desktop\Relacion1\Ejercicio7\Ejercicio7\obj\Debug\Ejercicio7.exe
+C:\Users\usuario-DAW\Desktop\Relacion1\Ejercicio7\Ejercicio7\obj\Debug\Ejercicio7.pdb
