@@ -1,0 +1,5 @@
+C:\Users\Cornejo\Desktop\Relacion2\Ejercicio15\Ejercicio15\bin\Debug\Ejercicio15.exe.config
+C:\Users\Cornejo\Desktop\Relacion2\Ejercicio15\Ejercicio15\bin\Debug\Ejercicio15.exe
+C:\Users\Cornejo\Desktop\Relacion2\Ejercicio15\Ejercicio15\bin\Debug\Ejercicio15.pdb
+C:\Users\Cornejo\Desktop\Relacion2\Ejercicio15\Ejercicio15\obj\Debug\Ejercicio15.exe
+C:\Users\Cornejo\Desktop\Relacion2\Ejercicio15\Ejercicio15\obj\Debug\Ejercicio15.pdb

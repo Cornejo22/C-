@@ -1,0 +1,6 @@
+C:\Users\Cornejo\Desktop\Relacion2\Ejercicio12\Ejercicio12\bin\Debug\Ejercicio12.exe.config
+C:\Users\Cornejo\Desktop\Relacion2\Ejercicio12\Ejercicio12\bin\Debug\Ejercicio12.exe
+C:\Users\Cornejo\Desktop\Relacion2\Ejercicio12\Ejercicio12\bin\Debug\Ejercicio12.pdb
+C:\Users\Cornejo\Desktop\Relacion2\Ejercicio12\Ejercicio12\obj\Debug\Ejercicio12.csprojResolveAssemblyReference.cache
+C:\Users\Cornejo\Desktop\Relacion2\Ejercicio12\Ejercicio12\obj\Debug\Ejercicio12.exe
+C:\Users\Cornejo\Desktop\Relacion2\Ejercicio12\Ejercicio12\obj\Debug\Ejercicio12.pdb

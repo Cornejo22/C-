@@ -1,0 +1,5 @@
+C:\Users\Cornejo\Desktop\Relacion2\Ejercicio16\Ejercicio16\bin\Debug\Ejercicio16.exe.config
+C:\Users\Cornejo\Desktop\Relacion2\Ejercicio16\Ejercicio16\bin\Debug\Ejercicio16.exe
+C:\Users\Cornejo\Desktop\Relacion2\Ejercicio16\Ejercicio16\bin\Debug\Ejercicio16.pdb
+C:\Users\Cornejo\Desktop\Relacion2\Ejercicio16\Ejercicio16\obj\Debug\Ejercicio16.exe
+C:\Users\Cornejo\Desktop\Relacion2\Ejercicio16\Ejercicio16\obj\Debug\Ejercicio16.pdb
