@@ -1,0 +1,18 @@
+E:\Programacion\06Relacion-Arrays\Relacion-EjerciciosArrays\Relacion-EjerciciosArrays\bin\Debug\Relacion-EjerciciosArrays.exe.config
+E:\Programacion\06Relacion-Arrays\Relacion-EjerciciosArrays\Relacion-EjerciciosArrays\bin\Debug\Relacion-EjerciciosArrays.exe
+E:\Programacion\06Relacion-Arrays\Relacion-EjerciciosArrays\Relacion-EjerciciosArrays\bin\Debug\Relacion-EjerciciosArrays.pdb
+E:\Programacion\06Relacion-Arrays\Relacion-EjerciciosArrays\Relacion-EjerciciosArrays\obj\Debug\Relacion-EjerciciosArrays.csprojResolveAssemblyReference.cache
+E:\Programacion\06Relacion-Arrays\Relacion-EjerciciosArrays\Relacion-EjerciciosArrays\obj\Debug\Relacion-EjerciciosArrays.exe
+E:\Programacion\06Relacion-Arrays\Relacion-EjerciciosArrays\Relacion-EjerciciosArrays\obj\Debug\Relacion-EjerciciosArrays.pdb
+C:\Users\Cornejo\Desktop\Programación\Ejercicios(TODO EL AÑO)\06Relacion-Arrays\Relacion-EjerciciosArrays\Relacion-EjerciciosArrays\bin\Debug\Relacion-EjerciciosArrays.exe.config
+C:\Users\Cornejo\Desktop\Programación\Ejercicios(TODO EL AÑO)\06Relacion-Arrays\Relacion-EjerciciosArrays\Relacion-EjerciciosArrays\obj\Debug\Relacion-EjerciciosArrays.exe
+C:\Users\Cornejo\Desktop\Programación\Ejercicios(TODO EL AÑO)\06Relacion-Arrays\Relacion-EjerciciosArrays\Relacion-EjerciciosArrays\obj\Debug\Relacion-EjerciciosArrays.pdb
+C:\Users\Cornejo\Desktop\Programación\Ejercicios(TODO EL AÑO)\06Relacion-Arrays\Relacion-EjerciciosArrays\Relacion-EjerciciosArrays\bin\Debug\Relacion-EjerciciosArrays.exe
+C:\Users\Cornejo\Desktop\Programación\Ejercicios(TODO EL AÑO)\06Relacion-Arrays\Relacion-EjerciciosArrays\Relacion-EjerciciosArrays\bin\Debug\Relacion-EjerciciosArrays.pdb
+C:\Users\Cornejo\Desktop\Programación\Ejercicios(TODO EL AÑO)\06Relacion-Arrays\Relacion-EjerciciosArrays\Relacion-EjerciciosArrays\obj\Debug\Relacion-EjerciciosArrays.csprojResolveAssemblyReference.cache
+F:\Programacion\06Relacion-Arrays\Relacion-EjerciciosArrays\Relacion-EjerciciosArrays\bin\Debug\Relacion-EjerciciosArrays.exe.config
+F:\Programacion\06Relacion-Arrays\Relacion-EjerciciosArrays\Relacion-EjerciciosArrays\obj\Debug\Relacion-EjerciciosArrays.exe
+F:\Programacion\06Relacion-Arrays\Relacion-EjerciciosArrays\Relacion-EjerciciosArrays\obj\Debug\Relacion-EjerciciosArrays.pdb
+F:\Programacion\06Relacion-Arrays\Relacion-EjerciciosArrays\Relacion-EjerciciosArrays\bin\Debug\Relacion-EjerciciosArrays.exe
+F:\Programacion\06Relacion-Arrays\Relacion-EjerciciosArrays\Relacion-EjerciciosArrays\bin\Debug\Relacion-EjerciciosArrays.pdb
+F:\Programacion\06Relacion-Arrays\Relacion-EjerciciosArrays\Relacion-EjerciciosArrays\obj\Debug\Relacion-EjerciciosArrays.csprojResolveAssemblyReference.cache

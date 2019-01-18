@@ -1,0 +1,12 @@
+E:\Programacion\06Relacion-Arrays\ArrayExtra\ArrayExtra\bin\Debug\ArrayExtra.exe.config
+E:\Programacion\06Relacion-Arrays\ArrayExtra\ArrayExtra\bin\Debug\ArrayExtra.exe
+E:\Programacion\06Relacion-Arrays\ArrayExtra\ArrayExtra\bin\Debug\ArrayExtra.pdb
+E:\Programacion\06Relacion-Arrays\ArrayExtra\ArrayExtra\obj\Debug\ArrayExtra.csprojResolveAssemblyReference.cache
+E:\Programacion\06Relacion-Arrays\ArrayExtra\ArrayExtra\obj\Debug\ArrayExtra.exe
+E:\Programacion\06Relacion-Arrays\ArrayExtra\ArrayExtra\obj\Debug\ArrayExtra.pdb
+F:\Programacion\06Relacion-Arrays\ArrayExtra\ArrayExtra\bin\Debug\ArrayExtra.exe.config
+F:\Programacion\06Relacion-Arrays\ArrayExtra\ArrayExtra\obj\Debug\ArrayExtra.exe
+F:\Programacion\06Relacion-Arrays\ArrayExtra\ArrayExtra\obj\Debug\ArrayExtra.pdb
+F:\Programacion\06Relacion-Arrays\ArrayExtra\ArrayExtra\bin\Debug\ArrayExtra.exe
+F:\Programacion\06Relacion-Arrays\ArrayExtra\ArrayExtra\bin\Debug\ArrayExtra.pdb
+F:\Programacion\06Relacion-Arrays\ArrayExtra\ArrayExtra\obj\Debug\ArrayExtra.csprojResolveAssemblyReference.cache
