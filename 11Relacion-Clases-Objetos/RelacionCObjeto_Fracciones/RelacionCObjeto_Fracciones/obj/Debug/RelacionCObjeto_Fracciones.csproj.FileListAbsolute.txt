@@ -1,0 +1,12 @@
+F:\PENDRIVE\Programacion\11Relacion-Clases-Objetos\RelacionCObjeto_Fracciones\RelacionCObjeto_Fracciones\bin\Debug\RelacionCObjeto_Fracciones.exe.config
+F:\PENDRIVE\Programacion\11Relacion-Clases-Objetos\RelacionCObjeto_Fracciones\RelacionCObjeto_Fracciones\bin\Debug\RelacionCObjeto_Fracciones.exe
+F:\PENDRIVE\Programacion\11Relacion-Clases-Objetos\RelacionCObjeto_Fracciones\RelacionCObjeto_Fracciones\bin\Debug\RelacionCObjeto_Fracciones.pdb
+F:\PENDRIVE\Programacion\11Relacion-Clases-Objetos\RelacionCObjeto_Fracciones\RelacionCObjeto_Fracciones\obj\Debug\RelacionCObjeto_Fracciones.csprojResolveAssemblyReference.cache
+F:\PENDRIVE\Programacion\11Relacion-Clases-Objetos\RelacionCObjeto_Fracciones\RelacionCObjeto_Fracciones\obj\Debug\RelacionCObjeto_Fracciones.exe
+F:\PENDRIVE\Programacion\11Relacion-Clases-Objetos\RelacionCObjeto_Fracciones\RelacionCObjeto_Fracciones\obj\Debug\RelacionCObjeto_Fracciones.pdb
+C:\Users\Cornejo\Desktop\Cosas\PENDRIVE\Programacion\11Relacion-Clases-Objetos\RelacionCObjeto_Fracciones\RelacionCObjeto_Fracciones\bin\Debug\RelacionCObjeto_Fracciones.exe.config
+C:\Users\Cornejo\Desktop\Cosas\PENDRIVE\Programacion\11Relacion-Clases-Objetos\RelacionCObjeto_Fracciones\RelacionCObjeto_Fracciones\obj\Debug\RelacionCObjeto_Fracciones.exe
+C:\Users\Cornejo\Desktop\Cosas\PENDRIVE\Programacion\11Relacion-Clases-Objetos\RelacionCObjeto_Fracciones\RelacionCObjeto_Fracciones\obj\Debug\RelacionCObjeto_Fracciones.pdb
+C:\Users\Cornejo\Desktop\Cosas\PENDRIVE\Programacion\11Relacion-Clases-Objetos\RelacionCObjeto_Fracciones\RelacionCObjeto_Fracciones\bin\Debug\RelacionCObjeto_Fracciones.exe
+C:\Users\Cornejo\Desktop\Cosas\PENDRIVE\Programacion\11Relacion-Clases-Objetos\RelacionCObjeto_Fracciones\RelacionCObjeto_Fracciones\bin\Debug\RelacionCObjeto_Fracciones.pdb
+C:\Users\Cornejo\Desktop\Cosas\PENDRIVE\Programacion\11Relacion-Clases-Objetos\RelacionCObjeto_Fracciones\RelacionCObjeto_Fracciones\obj\Debug\RelacionCObjeto_Fracciones.csprojResolveAssemblyReference.cache

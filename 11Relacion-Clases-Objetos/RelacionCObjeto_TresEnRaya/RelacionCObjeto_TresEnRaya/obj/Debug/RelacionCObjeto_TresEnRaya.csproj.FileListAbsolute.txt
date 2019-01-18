@@ -1,0 +1,15 @@
+F:\PENDRIVE\Programacion\11Relacion-Clases-Objetos\RelacionCObjeto_TresEnRaya\RelacionCObjeto_TresEnRaya\bin\Debug\RelacionCObjeto_TresEnRaya.exe.config
+F:\PENDRIVE\Programacion\11Relacion-Clases-Objetos\RelacionCObjeto_TresEnRaya\RelacionCObjeto_TresEnRaya\bin\Debug\RelacionCObjeto_TresEnRaya.exe
+F:\PENDRIVE\Programacion\11Relacion-Clases-Objetos\RelacionCObjeto_TresEnRaya\RelacionCObjeto_TresEnRaya\bin\Debug\RelacionCObjeto_TresEnRaya.pdb
+F:\PENDRIVE\Programacion\11Relacion-Clases-Objetos\RelacionCObjeto_TresEnRaya\RelacionCObjeto_TresEnRaya\obj\Debug\RelacionCObjeto_TresEnRaya.csprojResolveAssemblyReference.cache
+F:\PENDRIVE\Programacion\11Relacion-Clases-Objetos\RelacionCObjeto_TresEnRaya\RelacionCObjeto_TresEnRaya\obj\Debug\RelacionCObjeto_TresEnRaya.exe
+F:\PENDRIVE\Programacion\11Relacion-Clases-Objetos\RelacionCObjeto_TresEnRaya\RelacionCObjeto_TresEnRaya\obj\Debug\RelacionCObjeto_TresEnRaya.pdb
+C:\Users\Cornejo\Desktop\CosasPersonasNº1\PENDRIVE\Programacion\11Relacion-Clases-Objetos\RelacionCObjeto_TresEnRaya\RelacionCObjeto_TresEnRaya\bin\Debug\RelacionCObjeto_TresEnRaya.exe.config
+C:\Users\Cornejo\Desktop\CosasPersonasNº1\PENDRIVE\Programacion\11Relacion-Clases-Objetos\RelacionCObjeto_TresEnRaya\RelacionCObjeto_TresEnRaya\obj\Debug\RelacionCObjeto_TresEnRaya.exe
+C:\Users\Cornejo\Desktop\CosasPersonasNº1\PENDRIVE\Programacion\11Relacion-Clases-Objetos\RelacionCObjeto_TresEnRaya\RelacionCObjeto_TresEnRaya\obj\Debug\RelacionCObjeto_TresEnRaya.pdb
+C:\Users\Cornejo\Desktop\CosasPersonasNº1\PENDRIVE\Programacion\11Relacion-Clases-Objetos\RelacionCObjeto_TresEnRaya\RelacionCObjeto_TresEnRaya\bin\Debug\RelacionCObjeto_TresEnRaya.exe
+C:\Users\Cornejo\Desktop\CosasPersonasNº1\PENDRIVE\Programacion\11Relacion-Clases-Objetos\RelacionCObjeto_TresEnRaya\RelacionCObjeto_TresEnRaya\bin\Debug\RelacionCObjeto_TresEnRaya.pdb
+C:\Users\Cornejo\Desktop\CosasPersonasNº1\PENDRIVE\Programacion\11Relacion-Clases-Objetos\RelacionCObjeto_TresEnRaya\RelacionCObjeto_TresEnRaya\obj\Debug\RelacionCObjeto_TresEnRaya.csprojResolveAssemblyReference.cache
+C:\Users\Cornejo\Desktop\Cosas\PENDRIVE\Programacion\11Relacion-Clases-Objetos\RelacionCObjeto_TresEnRaya\RelacionCObjeto_TresEnRaya\bin\Debug\RelacionCObjeto_TresEnRaya.exe.config
+C:\Users\Cornejo\Desktop\Cosas\PENDRIVE\Programacion\11Relacion-Clases-Objetos\RelacionCObjeto_TresEnRaya\RelacionCObjeto_TresEnRaya\obj\Debug\RelacionCObjeto_TresEnRaya.exe
+C:\Users\Cornejo\Desktop\Cosas\PENDRIVE\Programacion\11Relacion-Clases-Objetos\RelacionCObjeto_TresEnRaya\RelacionCObjeto_TresEnRaya\obj\Debug\RelacionCObjeto_TresEnRaya.pdb

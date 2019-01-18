@@ -1,0 +1,6 @@
+C:\Users\usuario-DAW\Desktop\WEBCLIENT\WEBCLIENT\bin\Debug\WEBCLIENT.exe.config
+C:\Users\usuario-DAW\Desktop\WEBCLIENT\WEBCLIENT\bin\Debug\WEBCLIENT.exe
+C:\Users\usuario-DAW\Desktop\WEBCLIENT\WEBCLIENT\bin\Debug\WEBCLIENT.pdb
+C:\Users\usuario-DAW\Desktop\WEBCLIENT\WEBCLIENT\obj\Debug\WEBCLIENT.csprojResolveAssemblyReference.cache
+C:\Users\usuario-DAW\Desktop\WEBCLIENT\WEBCLIENT\obj\Debug\WEBCLIENT.exe
+C:\Users\usuario-DAW\Desktop\WEBCLIENT\WEBCLIENT\obj\Debug\WEBCLIENT.pdb
