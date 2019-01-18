@@ -1,0 +1,6 @@
+C:\Users\Cornejo\Desktop\Ejercicio18CeliaVinnas\Ejercicio18CeliaVinnas\bin\Debug\Ejercicio18CeliaVinnas.exe.config
+C:\Users\Cornejo\Desktop\Ejercicio18CeliaVinnas\Ejercicio18CeliaVinnas\bin\Debug\Ejercicio18CeliaVinnas.exe
+C:\Users\Cornejo\Desktop\Ejercicio18CeliaVinnas\Ejercicio18CeliaVinnas\bin\Debug\Ejercicio18CeliaVinnas.pdb
+C:\Users\Cornejo\Desktop\Ejercicio18CeliaVinnas\Ejercicio18CeliaVinnas\obj\Debug\Ejercicio18CeliaVinnas.csprojResolveAssemblyReference.cache
+C:\Users\Cornejo\Desktop\Ejercicio18CeliaVinnas\Ejercicio18CeliaVinnas\obj\Debug\Ejercicio18CeliaVinnas.exe
+C:\Users\Cornejo\Desktop\Ejercicio18CeliaVinnas\Ejercicio18CeliaVinnas\obj\Debug\Ejercicio18CeliaVinnas.pdb

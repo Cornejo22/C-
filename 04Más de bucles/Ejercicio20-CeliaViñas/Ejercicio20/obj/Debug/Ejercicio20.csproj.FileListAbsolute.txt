@@ -1,0 +1,5 @@
+C:\Users\usuario-DAW\Desktop\2016 LM\Relacion3\Ejercicio20\Ejercicio20\bin\Debug\Ejercicio20.exe.config
+C:\Users\usuario-DAW\Desktop\2016 LM\Relacion3\Ejercicio20\Ejercicio20\bin\Debug\Ejercicio20.exe
+C:\Users\usuario-DAW\Desktop\2016 LM\Relacion3\Ejercicio20\Ejercicio20\bin\Debug\Ejercicio20.pdb
+C:\Users\usuario-DAW\Desktop\2016 LM\Relacion3\Ejercicio20\Ejercicio20\obj\Debug\Ejercicio20.exe
+C:\Users\usuario-DAW\Desktop\2016 LM\Relacion3\Ejercicio20\Ejercicio20\obj\Debug\Ejercicio20.pdb

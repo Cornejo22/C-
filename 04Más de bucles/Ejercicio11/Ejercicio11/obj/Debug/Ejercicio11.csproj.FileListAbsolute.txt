@@ -1,0 +1,6 @@
+C:\Users\Cornejo\Desktop\Ejercicio11\Ejercicio11\bin\Debug\Ejercicio11.exe.config
+C:\Users\Cornejo\Desktop\Ejercicio11\Ejercicio11\bin\Debug\Ejercicio11.exe
+C:\Users\Cornejo\Desktop\Ejercicio11\Ejercicio11\bin\Debug\Ejercicio11.pdb
+C:\Users\Cornejo\Desktop\Ejercicio11\Ejercicio11\obj\Debug\Ejercicio11.csprojResolveAssemblyReference.cache
+C:\Users\Cornejo\Desktop\Ejercicio11\Ejercicio11\obj\Debug\Ejercicio11.exe
+C:\Users\Cornejo\Desktop\Ejercicio11\Ejercicio11\obj\Debug\Ejercicio11.pdb
