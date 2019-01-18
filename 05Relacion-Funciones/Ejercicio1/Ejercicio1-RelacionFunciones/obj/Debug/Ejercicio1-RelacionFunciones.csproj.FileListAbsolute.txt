@@ -1,0 +1,6 @@
+E:\Programación\Ejercicios\5Relacion-Funciones\Ejercicio1-RelacionFunciones\Ejercicio1-RelacionFunciones\bin\Debug\Ejercicio1-RelacionFunciones.exe.config
+E:\Programación\Ejercicios\5Relacion-Funciones\Ejercicio1-RelacionFunciones\Ejercicio1-RelacionFunciones\bin\Debug\Ejercicio1-RelacionFunciones.exe
+E:\Programación\Ejercicios\5Relacion-Funciones\Ejercicio1-RelacionFunciones\Ejercicio1-RelacionFunciones\bin\Debug\Ejercicio1-RelacionFunciones.pdb
+E:\Programación\Ejercicios\5Relacion-Funciones\Ejercicio1-RelacionFunciones\Ejercicio1-RelacionFunciones\obj\Debug\Ejercicio1-RelacionFunciones.csprojResolveAssemblyReference.cache
+E:\Programación\Ejercicios\5Relacion-Funciones\Ejercicio1-RelacionFunciones\Ejercicio1-RelacionFunciones\obj\Debug\Ejercicio1-RelacionFunciones.exe
+E:\Programación\Ejercicios\5Relacion-Funciones\Ejercicio1-RelacionFunciones\Ejercicio1-RelacionFunciones\obj\Debug\Ejercicio1-RelacionFunciones.pdb

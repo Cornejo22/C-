@@ -1,0 +1,5 @@
+E:\Programación\Ejercicios\5Relacion-Funciones\Ejercicio8-RelacionFunciones\Ejercicio8-RelacionFunciones\bin\Debug\Ejercicio8-RelacionFunciones.exe.config
+E:\Programación\Ejercicios\5Relacion-Funciones\Ejercicio8-RelacionFunciones\Ejercicio8-RelacionFunciones\bin\Debug\Ejercicio8-RelacionFunciones.exe
+E:\Programación\Ejercicios\5Relacion-Funciones\Ejercicio8-RelacionFunciones\Ejercicio8-RelacionFunciones\bin\Debug\Ejercicio8-RelacionFunciones.pdb
+E:\Programación\Ejercicios\5Relacion-Funciones\Ejercicio8-RelacionFunciones\Ejercicio8-RelacionFunciones\obj\Debug\Ejercicio8-RelacionFunciones.exe
+E:\Programación\Ejercicios\5Relacion-Funciones\Ejercicio8-RelacionFunciones\Ejercicio8-RelacionFunciones\obj\Debug\Ejercicio8-RelacionFunciones.pdb

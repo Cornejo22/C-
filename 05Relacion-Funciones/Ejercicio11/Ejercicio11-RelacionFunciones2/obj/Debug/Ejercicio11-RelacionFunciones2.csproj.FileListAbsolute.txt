@@ -1,0 +1,6 @@
+E:\Programación\Ejercicios\5Relacion-Funciones\Ejercicio11-RelacionFunciones2\Ejercicio11-RelacionFunciones2\bin\Debug\Ejercicio11-RelacionFunciones2.exe.config
+E:\Programación\Ejercicios\5Relacion-Funciones\Ejercicio11-RelacionFunciones2\Ejercicio11-RelacionFunciones2\bin\Debug\Ejercicio11-RelacionFunciones2.exe
+E:\Programación\Ejercicios\5Relacion-Funciones\Ejercicio11-RelacionFunciones2\Ejercicio11-RelacionFunciones2\bin\Debug\Ejercicio11-RelacionFunciones2.pdb
+E:\Programación\Ejercicios\5Relacion-Funciones\Ejercicio11-RelacionFunciones2\Ejercicio11-RelacionFunciones2\obj\Debug\Ejercicio11-RelacionFunciones2.csprojResolveAssemblyReference.cache
+E:\Programación\Ejercicios\5Relacion-Funciones\Ejercicio11-RelacionFunciones2\Ejercicio11-RelacionFunciones2\obj\Debug\Ejercicio11-RelacionFunciones2.exe
+E:\Programación\Ejercicios\5Relacion-Funciones\Ejercicio11-RelacionFunciones2\Ejercicio11-RelacionFunciones2\obj\Debug\Ejercicio11-RelacionFunciones2.pdb

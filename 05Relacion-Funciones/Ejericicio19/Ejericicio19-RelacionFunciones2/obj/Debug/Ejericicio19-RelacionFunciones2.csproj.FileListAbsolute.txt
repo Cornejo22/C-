@@ -1,0 +1,6 @@
+E:\Programacion\05Relacion-Funciones\Ejericicio19-RelacionFunciones2\Ejericicio19-RelacionFunciones2\bin\Debug\Ejericicio19-RelacionFunciones2.exe.config
+E:\Programacion\05Relacion-Funciones\Ejericicio19-RelacionFunciones2\Ejericicio19-RelacionFunciones2\bin\Debug\Ejericicio19-RelacionFunciones2.exe
+E:\Programacion\05Relacion-Funciones\Ejericicio19-RelacionFunciones2\Ejericicio19-RelacionFunciones2\bin\Debug\Ejericicio19-RelacionFunciones2.pdb
+E:\Programacion\05Relacion-Funciones\Ejericicio19-RelacionFunciones2\Ejericicio19-RelacionFunciones2\obj\Debug\Ejericicio19-RelacionFunciones2.csprojResolveAssemblyReference.cache
+E:\Programacion\05Relacion-Funciones\Ejericicio19-RelacionFunciones2\Ejericicio19-RelacionFunciones2\obj\Debug\Ejericicio19-RelacionFunciones2.exe
+E:\Programacion\05Relacion-Funciones\Ejericicio19-RelacionFunciones2\Ejericicio19-RelacionFunciones2\obj\Debug\Ejericicio19-RelacionFunciones2.pdb

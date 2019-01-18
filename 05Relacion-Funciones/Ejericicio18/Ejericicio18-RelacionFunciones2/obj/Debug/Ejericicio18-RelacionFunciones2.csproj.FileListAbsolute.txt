@@ -1,0 +1,7 @@
+C:\Users\Cornejo\Desktop\Programación\Ejercicios(TODO EL AÑO)\05Relacion-Funciones\Ejericicio18-RelacionFunciones2\Ejericicio18-RelacionFunciones2\bin\Debug\Ejericicio18-RelacionFunciones2.exe.config
+E:\Programacion\05Relacion-Funciones\Ejericicio18-RelacionFunciones2\Ejericicio18-RelacionFunciones2\bin\Debug\Ejericicio18-RelacionFunciones2.exe.config
+E:\Programacion\05Relacion-Funciones\Ejericicio18-RelacionFunciones2\Ejericicio18-RelacionFunciones2\bin\Debug\Ejericicio18-RelacionFunciones2.exe
+E:\Programacion\05Relacion-Funciones\Ejericicio18-RelacionFunciones2\Ejericicio18-RelacionFunciones2\bin\Debug\Ejericicio18-RelacionFunciones2.pdb
+E:\Programacion\05Relacion-Funciones\Ejericicio18-RelacionFunciones2\Ejericicio18-RelacionFunciones2\obj\Debug\Ejericicio18-RelacionFunciones2.csprojResolveAssemblyReference.cache
+E:\Programacion\05Relacion-Funciones\Ejericicio18-RelacionFunciones2\Ejericicio18-RelacionFunciones2\obj\Debug\Ejericicio18-RelacionFunciones2.exe
+E:\Programacion\05Relacion-Funciones\Ejericicio18-RelacionFunciones2\Ejericicio18-RelacionFunciones2\obj\Debug\Ejericicio18-RelacionFunciones2.pdb
