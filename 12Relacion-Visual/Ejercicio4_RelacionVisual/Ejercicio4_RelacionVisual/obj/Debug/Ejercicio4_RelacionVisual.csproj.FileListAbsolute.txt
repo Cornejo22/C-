@@ -1,0 +1,12 @@
+F:\PENDRIVE\Programacion\12Relacion-Visual\Ejercicio4_RelacionVisual\Ejercicio4_RelacionVisual\bin\Debug\Ejercicio4_RelacionVisual.exe.config
+F:\PENDRIVE\Programacion\12Relacion-Visual\Ejercicio4_RelacionVisual\Ejercicio4_RelacionVisual\bin\Debug\Ejercicio4_RelacionVisual.exe
+F:\PENDRIVE\Programacion\12Relacion-Visual\Ejercicio4_RelacionVisual\Ejercicio4_RelacionVisual\bin\Debug\Ejercicio4_RelacionVisual.pdb
+F:\PENDRIVE\Programacion\12Relacion-Visual\Ejercicio4_RelacionVisual\Ejercicio4_RelacionVisual\obj\Debug\Ejercicio4_RelacionVisual.Form1.resources
+F:\PENDRIVE\Programacion\12Relacion-Visual\Ejercicio4_RelacionVisual\Ejercicio4_RelacionVisual\obj\Debug\Ejercicio4_RelacionVisual.Properties.Resources.resources
+F:\PENDRIVE\Programacion\12Relacion-Visual\Ejercicio4_RelacionVisual\Ejercicio4_RelacionVisual\obj\Debug\Ejercicio4_RelacionVisual.csproj.GenerateResource.Cache
+F:\PENDRIVE\Programacion\12Relacion-Visual\Ejercicio4_RelacionVisual\Ejercicio4_RelacionVisual\obj\Debug\Ejercicio4_RelacionVisual.exe
+F:\PENDRIVE\Programacion\12Relacion-Visual\Ejercicio4_RelacionVisual\Ejercicio4_RelacionVisual\obj\Debug\Ejercicio4_RelacionVisual.pdb
+F:\PENDRIVE\Programacion\12Relacion-Visual\Ejercicio4_RelacionVisual\Ejercicio4_RelacionVisual\obj\Debug\Ejercicio4_RelacionVisual.csprojResolveAssemblyReference.cache
+C:\Users\Cornejo\Desktop\Cosas\PENDRIVE\Programacion\12Relacion-Visual\Ejercicio4_RelacionVisual\Ejercicio4_RelacionVisual\bin\Debug\Ejercicio4_RelacionVisual.exe.config
+C:\Users\Cornejo\Desktop\Cosas\PENDRIVE\Programacion\12Relacion-Visual\Ejercicio4_RelacionVisual\Ejercicio4_RelacionVisual\obj\Debug\Ejercicio4_RelacionVisual.exe
+C:\Users\Cornejo\Desktop\Cosas\PENDRIVE\Programacion\12Relacion-Visual\Ejercicio4_RelacionVisual\Ejercicio4_RelacionVisual\obj\Debug\Ejercicio4_RelacionVisual.pdb

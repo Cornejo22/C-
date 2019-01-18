@@ -1,0 +1,9 @@
+C:\Users\Cornejo\Desktop\Cosas\PENDRIVE\Programacion\12Relacion-Visual\Ejercicio6-RelacionVisual\Ejercicio6-RelacionVisual\bin\Debug\Ejercicio6-RelacionVisual.exe.config
+C:\Users\Cornejo\Desktop\Cosas\PENDRIVE\Programacion\12Relacion-Visual\Ejercicio6-RelacionVisual\Ejercicio6-RelacionVisual\bin\Debug\Ejercicio6-RelacionVisual.exe
+C:\Users\Cornejo\Desktop\Cosas\PENDRIVE\Programacion\12Relacion-Visual\Ejercicio6-RelacionVisual\Ejercicio6-RelacionVisual\bin\Debug\Ejercicio6-RelacionVisual.pdb
+C:\Users\Cornejo\Desktop\Cosas\PENDRIVE\Programacion\12Relacion-Visual\Ejercicio6-RelacionVisual\Ejercicio6-RelacionVisual\obj\Debug\Ejercicio6-RelacionVisual.csprojResolveAssemblyReference.cache
+C:\Users\Cornejo\Desktop\Cosas\PENDRIVE\Programacion\12Relacion-Visual\Ejercicio6-RelacionVisual\Ejercicio6-RelacionVisual\obj\Debug\Ejercicio6_RelacionVisual.Form1.resources
+C:\Users\Cornejo\Desktop\Cosas\PENDRIVE\Programacion\12Relacion-Visual\Ejercicio6-RelacionVisual\Ejercicio6-RelacionVisual\obj\Debug\Ejercicio6_RelacionVisual.Properties.Resources.resources
+C:\Users\Cornejo\Desktop\Cosas\PENDRIVE\Programacion\12Relacion-Visual\Ejercicio6-RelacionVisual\Ejercicio6-RelacionVisual\obj\Debug\Ejercicio6-RelacionVisual.csproj.GenerateResource.Cache
+C:\Users\Cornejo\Desktop\Cosas\PENDRIVE\Programacion\12Relacion-Visual\Ejercicio6-RelacionVisual\Ejercicio6-RelacionVisual\obj\Debug\Ejercicio6-RelacionVisual.exe
+C:\Users\Cornejo\Desktop\Cosas\PENDRIVE\Programacion\12Relacion-Visual\Ejercicio6-RelacionVisual\Ejercicio6-RelacionVisual\obj\Debug\Ejercicio6-RelacionVisual.pdb

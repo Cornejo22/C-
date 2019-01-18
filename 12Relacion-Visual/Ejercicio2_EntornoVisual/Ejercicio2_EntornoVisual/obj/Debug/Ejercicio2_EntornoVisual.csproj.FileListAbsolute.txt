@@ -1,0 +1,12 @@
+F:\PENDRIVE\Programacion\12Relacion-Visual\Ejercicio2_EntornoVisual\Ejercicio2_EntornoVisual\bin\Debug\Ejercicio2_EntornoVisual.exe.config
+F:\PENDRIVE\Programacion\12Relacion-Visual\Ejercicio2_EntornoVisual\Ejercicio2_EntornoVisual\bin\Debug\Ejercicio2_EntornoVisual.exe
+F:\PENDRIVE\Programacion\12Relacion-Visual\Ejercicio2_EntornoVisual\Ejercicio2_EntornoVisual\bin\Debug\Ejercicio2_EntornoVisual.pdb
+F:\PENDRIVE\Programacion\12Relacion-Visual\Ejercicio2_EntornoVisual\Ejercicio2_EntornoVisual\obj\Debug\Ejercicio2_EntornoVisual.Form1.resources
+F:\PENDRIVE\Programacion\12Relacion-Visual\Ejercicio2_EntornoVisual\Ejercicio2_EntornoVisual\obj\Debug\Ejercicio2_EntornoVisual.Properties.Resources.resources
+F:\PENDRIVE\Programacion\12Relacion-Visual\Ejercicio2_EntornoVisual\Ejercicio2_EntornoVisual\obj\Debug\Ejercicio2_EntornoVisual.csproj.GenerateResource.Cache
+F:\PENDRIVE\Programacion\12Relacion-Visual\Ejercicio2_EntornoVisual\Ejercicio2_EntornoVisual\obj\Debug\Ejercicio2_EntornoVisual.exe
+F:\PENDRIVE\Programacion\12Relacion-Visual\Ejercicio2_EntornoVisual\Ejercicio2_EntornoVisual\obj\Debug\Ejercicio2_EntornoVisual.pdb
+F:\PENDRIVE\Programacion\12Relacion-Visual\Ejercicio2_EntornoVisual\Ejercicio2_EntornoVisual\obj\Debug\Ejercicio2_EntornoVisual.csprojResolveAssemblyReference.cache
+C:\Users\Cornejo\Desktop\Cosas\PENDRIVE\Programacion\12Relacion-Visual\Ejercicio2_EntornoVisual\Ejercicio2_EntornoVisual\bin\Debug\Ejercicio2_EntornoVisual.exe.config
+C:\Users\Cornejo\Desktop\Cosas\PENDRIVE\Programacion\12Relacion-Visual\Ejercicio2_EntornoVisual\Ejercicio2_EntornoVisual\obj\Debug\Ejercicio2_EntornoVisual.exe
+C:\Users\Cornejo\Desktop\Cosas\PENDRIVE\Programacion\12Relacion-Visual\Ejercicio2_EntornoVisual\Ejercicio2_EntornoVisual\obj\Debug\Ejercicio2_EntornoVisual.pdb
