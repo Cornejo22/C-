@@ -1,0 +1,6 @@
+C:\Users\usuario-DAW\Desktop\Relacion con FOR\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+C:\Users\usuario-DAW\Desktop\Relacion con FOR\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe
+C:\Users\usuario-DAW\Desktop\Relacion con FOR\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.pdb
+C:\Users\usuario-DAW\Desktop\Relacion con FOR\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csprojResolveAssemblyReference.cache
+C:\Users\usuario-DAW\Desktop\Relacion con FOR\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.exe
+C:\Users\usuario-DAW\Desktop\Relacion con FOR\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.pdb

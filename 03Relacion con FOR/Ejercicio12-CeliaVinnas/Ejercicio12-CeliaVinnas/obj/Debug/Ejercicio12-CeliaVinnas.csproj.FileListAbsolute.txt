@@ -1,0 +1,11 @@
+C:\Users\usuario-DAW\Desktop\Relacion con FOR\Ejercicio12-CeliaVinnas\Ejercicio12-CeliaVinnas\bin\Debug\Ejercicio12-CeliaVinnas.exe.config
+C:\Users\usuario-DAW\Desktop\Relacion con FOR\Ejercicio12-CeliaVinnas\Ejercicio12-CeliaVinnas\bin\Debug\Ejercicio12-CeliaVinnas.exe
+C:\Users\usuario-DAW\Desktop\Relacion con FOR\Ejercicio12-CeliaVinnas\Ejercicio12-CeliaVinnas\bin\Debug\Ejercicio12-CeliaVinnas.pdb
+C:\Users\usuario-DAW\Desktop\Relacion con FOR\Ejercicio12-CeliaVinnas\Ejercicio12-CeliaVinnas\obj\Debug\Ejercicio12-CeliaVinnas.exe
+C:\Users\usuario-DAW\Desktop\Relacion con FOR\Ejercicio12-CeliaVinnas\Ejercicio12-CeliaVinnas\obj\Debug\Ejercicio12-CeliaVinnas.pdb
+E:\Programacion\03Relacion con FOR\Ejercicio12-CeliaVinnas\Ejercicio12-CeliaVinnas\bin\Debug\Ejercicio12-CeliaVinnas.exe.config
+E:\Programacion\03Relacion con FOR\Ejercicio12-CeliaVinnas\Ejercicio12-CeliaVinnas\obj\Debug\Ejercicio12-CeliaVinnas.exe
+E:\Programacion\03Relacion con FOR\Ejercicio12-CeliaVinnas\Ejercicio12-CeliaVinnas\obj\Debug\Ejercicio12-CeliaVinnas.pdb
+E:\Programacion\03Relacion con FOR\Ejercicio12-CeliaVinnas\Ejercicio12-CeliaVinnas\bin\Debug\Ejercicio12-CeliaVinnas.exe
+E:\Programacion\03Relacion con FOR\Ejercicio12-CeliaVinnas\Ejercicio12-CeliaVinnas\bin\Debug\Ejercicio12-CeliaVinnas.pdb
+E:\Programacion\03Relacion con FOR\Ejercicio12-CeliaVinnas\Ejercicio12-CeliaVinnas\obj\Debug\Ejercicio12-CeliaVinnas.csprojResolveAssemblyReference.cache

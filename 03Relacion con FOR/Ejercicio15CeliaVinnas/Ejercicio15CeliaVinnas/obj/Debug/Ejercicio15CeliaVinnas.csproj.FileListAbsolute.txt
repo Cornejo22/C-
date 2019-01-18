@@ -1,0 +1,6 @@
+C:\Users\usuario-DAW\Desktop\Relacion con FOR\Ejercicio15CeliaVinnas\Ejercicio15CeliaVinnas\bin\Debug\Ejercicio15CeliaVinnas.exe.config
+C:\Users\usuario-DAW\Desktop\Relacion con FOR\Ejercicio15CeliaVinnas\Ejercicio15CeliaVinnas\bin\Debug\Ejercicio15CeliaVinnas.exe
+C:\Users\usuario-DAW\Desktop\Relacion con FOR\Ejercicio15CeliaVinnas\Ejercicio15CeliaVinnas\bin\Debug\Ejercicio15CeliaVinnas.pdb
+C:\Users\usuario-DAW\Desktop\Relacion con FOR\Ejercicio15CeliaVinnas\Ejercicio15CeliaVinnas\obj\Debug\Ejercicio15CeliaVinnas.csprojResolveAssemblyReference.cache
+C:\Users\usuario-DAW\Desktop\Relacion con FOR\Ejercicio15CeliaVinnas\Ejercicio15CeliaVinnas\obj\Debug\Ejercicio15CeliaVinnas.exe
+C:\Users\usuario-DAW\Desktop\Relacion con FOR\Ejercicio15CeliaVinnas\Ejercicio15CeliaVinnas\obj\Debug\Ejercicio15CeliaVinnas.pdb

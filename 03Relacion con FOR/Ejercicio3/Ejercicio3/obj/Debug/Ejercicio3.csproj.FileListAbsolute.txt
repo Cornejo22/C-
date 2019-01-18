@@ -1,0 +1,5 @@
+C:\Users\usuario-DAW\Desktop\Relacion con FOR\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+C:\Users\usuario-DAW\Desktop\Relacion con FOR\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe
+C:\Users\usuario-DAW\Desktop\Relacion con FOR\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.pdb
+C:\Users\usuario-DAW\Desktop\Relacion con FOR\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.exe
+C:\Users\usuario-DAW\Desktop\Relacion con FOR\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.pdb

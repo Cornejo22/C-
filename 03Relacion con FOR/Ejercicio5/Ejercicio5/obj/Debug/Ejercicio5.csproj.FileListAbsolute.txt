@@ -1,0 +1,5 @@
+C:\Users\usuario-DAW\Desktop\Relacion con FOR\Ejercicio5\Ejercicio5\bin\Debug\Ejercicio5.exe.config
+C:\Users\usuario-DAW\Desktop\Relacion con FOR\Ejercicio5\Ejercicio5\bin\Debug\Ejercicio5.exe
+C:\Users\usuario-DAW\Desktop\Relacion con FOR\Ejercicio5\Ejercicio5\bin\Debug\Ejercicio5.pdb
+C:\Users\usuario-DAW\Desktop\Relacion con FOR\Ejercicio5\Ejercicio5\obj\Debug\Ejercicio5.exe
+C:\Users\usuario-DAW\Desktop\Relacion con FOR\Ejercicio5\Ejercicio5\obj\Debug\Ejercicio5.pdb

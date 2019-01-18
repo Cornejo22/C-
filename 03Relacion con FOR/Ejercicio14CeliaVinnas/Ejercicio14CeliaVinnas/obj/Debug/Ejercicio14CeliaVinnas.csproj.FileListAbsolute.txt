@@ -1,0 +1,5 @@
+C:\Users\usuario-DAW\Desktop\Relacion con FOR\Ejercicio14CeliaVinnas\Ejercicio14CeliaVinnas\bin\Debug\Ejercicio14CeliaVinnas.exe.config
+C:\Users\usuario-DAW\Desktop\Relacion con FOR\Ejercicio14CeliaVinnas\Ejercicio14CeliaVinnas\bin\Debug\Ejercicio14CeliaVinnas.exe
+C:\Users\usuario-DAW\Desktop\Relacion con FOR\Ejercicio14CeliaVinnas\Ejercicio14CeliaVinnas\bin\Debug\Ejercicio14CeliaVinnas.pdb
+C:\Users\usuario-DAW\Desktop\Relacion con FOR\Ejercicio14CeliaVinnas\Ejercicio14CeliaVinnas\obj\Debug\Ejercicio14CeliaVinnas.exe
+C:\Users\usuario-DAW\Desktop\Relacion con FOR\Ejercicio14CeliaVinnas\Ejercicio14CeliaVinnas\obj\Debug\Ejercicio14CeliaVinnas.pdb
