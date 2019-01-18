@@ -1,0 +1,12 @@
+C:\Users\usuario-DAW\Desktop\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+C:\Users\usuario-DAW\Desktop\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe
+C:\Users\usuario-DAW\Desktop\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.pdb
+C:\Users\usuario-DAW\Desktop\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csprojResolveAssemblyReference.cache
+C:\Users\usuario-DAW\Desktop\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.exe
+C:\Users\usuario-DAW\Desktop\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.pdb
+C:\Users\Cornejo\Desktop\Cosas\PENDRIVE\Cornejo_Manzanares_Miguel_Angel_Examen5\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+C:\Users\Cornejo\Desktop\Cosas\PENDRIVE\Cornejo_Manzanares_Miguel_Angel_Examen5\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe
+C:\Users\Cornejo\Desktop\Cosas\PENDRIVE\Cornejo_Manzanares_Miguel_Angel_Examen5\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.pdb
+C:\Users\Cornejo\Desktop\Cosas\PENDRIVE\Cornejo_Manzanares_Miguel_Angel_Examen5\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csprojResolveAssemblyReference.cache
+C:\Users\Cornejo\Desktop\Cosas\PENDRIVE\Cornejo_Manzanares_Miguel_Angel_Examen5\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.exe
+C:\Users\Cornejo\Desktop\Cosas\PENDRIVE\Cornejo_Manzanares_Miguel_Angel_Examen5\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.pdb
